@@ -85,6 +85,10 @@ your setup.
 (Note:  If you're using this under Win32, please read win32/README,
 in addition to this README.)
 
+=============================================
+This driver is compatible with MySQL 5.5+ 
+=============================================
+
 Step 1:  Make sure MySQL is properly installed and working.
 
   This may seem like a silly step, but the number of times
