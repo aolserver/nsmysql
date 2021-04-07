@@ -23,8 +23,8 @@ ifndef MYSQL_PREFIX
 MYSQL_PREFIX = /usr/local
 endif
 
-MYSQL_LIBDIR = $(MYSQL_PREFIX)/lib/mysql
-MYSQL_INCDIR = $(MYSQL_PREFIX)/include/mysql
+MYSQL_LIBDIR = $(MYSQL_PREFIX)/lib
+MYSQL_INCDIR = $(MYSQL_PREFIX)/include
 
 #
 # Header files in THIS directory
